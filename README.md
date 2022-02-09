@@ -12,6 +12,5 @@ You can use this web service to convert your desired dates to Solar Hijri (Hejri
 api.php?method=shamsi&year=1371&month=1&day=21
 ```
 <div style="display:flex;">
- <img align="center" src="https://raw.githubusercontent.com/iNeoTeam/DateConvert/main/DateConvert-Image.png
-.png" />
+ <img align="center" src="https://raw.githubusercontent.com/iNeoTeam/DateConvert/main/DateConvert-Image.png" />
  </div>
